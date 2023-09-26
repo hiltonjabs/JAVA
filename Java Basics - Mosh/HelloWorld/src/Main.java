@@ -1,3 +1,5 @@
+import java.util.Date;
+
 public class Main {
     public static void main(String[] args) {
     //String[] args is a parenthesis () and in this case is a parameter
