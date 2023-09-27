@@ -10,6 +10,6 @@ public class Main {
     //System is a system class in JAVA
     //Inside this System class there are members so by typing System. we will see the different members(method) define
     //in the system class
-    //out is the field and println is a method
+    //out is the field and println is a method..
     }
 }
