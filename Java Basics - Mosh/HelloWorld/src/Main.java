@@ -6,6 +6,8 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        final float PI = 3.14F;
+        double result = (double)10 / (double)4;
+        System.out.println(result);
+
     }
 }
