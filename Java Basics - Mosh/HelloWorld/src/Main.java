@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        boolean hasHighIncome = true;
-        boolean hasGoodCredit = true;
+        boolean hasHighIncome = false;
+        boolean hasGoodCredit = false;
         boolean hasCriminalRecord = false;
-        boolean isEligible = (hasHighIncome || hasGoodCredit) && !hasCriminalRecord;
+        boolean isEligible = hasHighIncome || hasGoodCredit;
 
     }
 }
