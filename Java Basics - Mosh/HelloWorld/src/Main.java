@@ -5,7 +5,6 @@ public class Main {
 
         System.out.println("Hello world again?");
         System.out.println("I am still at it");
-        System.out.println("Coding and coding");
         
     }
 }
