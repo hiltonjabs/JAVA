@@ -8,7 +8,6 @@ public class Main {
         System.out.println("Coding and coding");
         System.out.println("Let's do this ");
         System.out.println("A week in!!!");
-        System.out.println("Tomorrow I will be even better");
         
     }
 }
