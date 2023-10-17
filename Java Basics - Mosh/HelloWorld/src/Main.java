@@ -5,6 +5,5 @@ public class Main {
 
         System.out.println("Hello world again?");
         System.out.println();
-        System.out.println("Where is this line?");
     }
 }
