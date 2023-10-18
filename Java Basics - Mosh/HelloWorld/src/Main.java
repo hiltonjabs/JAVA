@@ -2,11 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("Hello world again?");
-        System.out.println("Hello World Again");
-        System.out.print("Hello World");
-        System.out.println("Hello World Once More ");
+        
 
     }
 }
