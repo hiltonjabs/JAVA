@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Hlomuka");
         System.out.println("Let's get this right");
         System.out.println("Let's do this boy");
-        System.out.println();
+        System.out.println("For the fam G");
     }
 }
