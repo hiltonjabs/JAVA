@@ -7,5 +7,7 @@ public class Main {
         System.out.print("My name is Njabulo ");
         System.out.println("Hlomuka");
         System.out.println("Let's get this right");
+        System.out.println();
+        System.out.println();
     }
 }
