@@ -2,14 +2,14 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        String role = "admin";
+        int role = 1;
 
         switch (role) {
-            case "admin":
+            case 1:
                 System.out.println("You're and admin");
                 break;
 
-            case "moderator":
+            case 2:
                 System.out.println("You're a moderator");
                 break;
 
