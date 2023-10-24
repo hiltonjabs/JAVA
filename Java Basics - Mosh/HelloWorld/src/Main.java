@@ -1,9 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        greetUser( "Njabulo", "Hlomuka");
-        greetUser("Mosh", "TheMan");
+        String message = greetUser( "Njabulo", "Hlomuka");
     }
-    public static void greetUser(String firstName, String lastName) {
-        System.out.println("Hello " + firstName + " " + lastName);
+    public static String greetUser(String firstName, String lastName) {
+        return "Hello " + firstName + " " + lastName;
     }
 }
