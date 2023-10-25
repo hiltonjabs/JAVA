@@ -1,8 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String message = greetUser( "Njabulo", "Hlomuka");
+        var textBox1 = new TextBox();
     }
-    public static String greetUser(String firstName, String lastName) {
-        return "Hello " + firstName + " " + lastName;
-    }
+
 }
