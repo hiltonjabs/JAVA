@@ -4,5 +4,6 @@ public class Main {
     }
     public static String greetUser(String firstName, String lastName) {
         return "Hello " + firstName + " " + lastName;
+        System.out.println();
     }
 }
