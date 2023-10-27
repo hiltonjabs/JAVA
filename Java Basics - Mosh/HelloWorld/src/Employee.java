@@ -1,5 +1,5 @@
 public class Employee {
-    public int baseSalary;
+    private int baseSalary;
     public int hourlyRate;
 
     public int calculateWage(int extraHours) {
