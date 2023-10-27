@@ -3,7 +3,7 @@ public class Main {
        var employee = new Employee();
        employee.setBaseSalary(-1);
        employee.getBaseSalary();
-       employee.hourlyRate = 20;
+       employee.setHourlyRate(20);
        int wage = employee.calculateWage(10);
         System.out.println(wage);
     }
