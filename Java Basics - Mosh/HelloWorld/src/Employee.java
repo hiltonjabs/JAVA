@@ -10,4 +10,7 @@ public class Employee {
             throw new IllegalArgumentException("The Salary cannot be 0 or less. ");
         this.baseSalary = baseSalary;
     }
+    public int getBaseSalary() {
+        return baseSalary;
+    }
 }
