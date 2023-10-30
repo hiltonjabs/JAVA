@@ -32,7 +32,7 @@ public class Main {
         while (true) {
             System.out.print("Period (Years): ");
             byte years = scanner.nextByte();
-            if (years >=1 && years <= 20) {
+            if (years >=1 && years <= 30) {
                 numberOfPayments = years * MONTHS_IN_A_YEAR;
                 break;
             }
