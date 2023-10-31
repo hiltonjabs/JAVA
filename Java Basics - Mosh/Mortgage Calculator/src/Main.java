@@ -36,7 +36,7 @@ public class Main {
                 numberOfPayments = years * MONTHS_IN_A_YEAR;
                 break;
             }
-            System.out.println("Enter a value between 1 and 30");
+            System.out.println("Enter a value between 1 and 31");
         }
         double mortgage = principal
                     * (monthlyInterest * Math.pow(1 + monthlyInterest, numberOfPayments))
