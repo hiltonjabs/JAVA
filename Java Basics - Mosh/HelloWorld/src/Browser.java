@@ -9,7 +9,7 @@ public class Browser {
         return "<html></html>";
     }
 
-    pr String findIpAdress(String address){
+    private String findIpAdress(String address){
         return "127.0.0.1";
     }
 
