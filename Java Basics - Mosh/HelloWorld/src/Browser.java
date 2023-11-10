@@ -10,7 +10,7 @@ public class Browser {
     }
 
     private String findIpAdress(String address){
-        return "127.0.0.1";
+        return "127.0.1.1";
     }
 
 }
