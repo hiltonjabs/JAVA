@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad2d0adc-3a55-472e-a196-a7a36017ee5a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Helloworld 2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Helloworld 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Helloworld 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Helloworld 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Helloworld 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Helloworld 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Helloworld 2/Helloworld 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Helloworld 2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ad2d0adc-3a55-472e-a196-a7a36017ee5a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
