@@ -6,6 +6,7 @@ public class TaxCalculator {
     }
 
     public double calculateTax() {
-        return taxableIncome * 0.2;
+        return taxableIncome * 0.3;
     }
+
 }
