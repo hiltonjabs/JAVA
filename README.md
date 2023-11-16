@@ -1,4 +1,4 @@
 # JAVA
-Learning the JAVA Basics
+JAVA Basics and Advanced
 
-In this repository I will be re-learning the JAVA Basics and doing some basic projects 
+In this repository I will be re-learning the JAVA basics and advanced topics. I will also be doing some basic projects 
