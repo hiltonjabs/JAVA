@@ -10,7 +10,7 @@ public class TaxCalculator {
         double taxAmount = amount * taxPercentage;
         double totalAmount = amount + taxAmount;
 
-        System.out.println("The Original amount: $" + amount);
+        System.out.println("The Original amount: R" + amount);
         System.out.println("Tax (14%): R" + taxAmount);
         System.out.println("Total amount after tax: R" + totalAmount);
 
