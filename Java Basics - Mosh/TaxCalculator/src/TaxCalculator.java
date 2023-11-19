@@ -14,6 +14,6 @@ public class TaxCalculator {
         System.out.println("Tax (14%): R" + taxAmount);
         System.out.println("Total amount after tax: $" + totalAmount);
 
-        
+        scanner.close();
     }
 }
