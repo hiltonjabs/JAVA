@@ -12,7 +12,7 @@ public class TaxCalculator {
 
         System.out.println("The Original amount: $" + amount);
         System.out.println("Tax (14%): R" + taxAmount);
-        System.out.println("Total amount after tax: $" + totalAmount);
+        System.out.println("Total amount after tax: R" + totalAmount);
 
         scanner.close();
     }
