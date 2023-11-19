@@ -3,7 +3,7 @@ public class TaxCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter an amount: ");
+        System.out.print("Enter the amount: ");
         double amount = scanner.nextDouble();
 
         double taxPercentage = 0.14; // 14% tax rate
