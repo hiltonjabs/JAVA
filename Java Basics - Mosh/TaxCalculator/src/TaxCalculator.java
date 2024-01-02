@@ -6,7 +6,7 @@ public class TaxCalculator {
         System.out.print("Enter the amount: ");
         double amount = scanner.nextDouble();
 
-        double taxPercentage = 0.15; // 15% tax rate
+        double taxPercentage = 0.14; // 15% tax rate
         double taxAmount = amount * taxPercentage;
         double totalAmount = amount + taxAmount;
 
